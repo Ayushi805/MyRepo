@@ -3,7 +3,7 @@ public class HI {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("HI");
+		System.out.print("HI Ayushi");
 	}
 
 }
